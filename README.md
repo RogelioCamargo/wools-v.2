@@ -1,7 +1,7 @@
 ## Warehouse Tools
 
 ### Demo
-https://roger-tools.herokuapp.com/
+https://roger-wools.herokuapp.com/
 
 This is the more redefined version of an earlier attempt to solve an issue. [See First Design](https://github.com/RogelioCamargo/inventory-solutions).
 
