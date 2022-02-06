@@ -19,5 +19,8 @@ It was difficult to implement simple features. When I moved to react, I found ad
 ### Dashboard
 <img src="/demo/dashboard2.png" alt="warehouse screen" style="width: 400px;" />
 
+### Inventory
+<img src="/demo/dashboard.png" alt="warehouse screen" style="width: 400px;" />
+
 ### Responsive 
 <img src="/demo/responsive.PNG" alt="warehouse screen" style="width: 250px;" />
