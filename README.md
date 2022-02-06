@@ -17,10 +17,10 @@ I switched to React. I followed the MVC design pattern for the first project but
 It was difficult to implement simple features. When I moved to react, I found adding new features and keeping my code nice and modular much easier.
 
 ### Dashboard
-<img src="/demo/dashboard2.png" alt="warehouse screen" style="width: 500px;" />
+<img src="/demo/dashboard2.png" alt="warehouse screen" style="width: 600px;" />
 
 ### Inventory
-<img src="/demo/dashboard.png" alt="warehouse screen" style="width: 500px;" />
+<img src="/demo/dashboard.png" alt="warehouse screen" style="width: 600px;" />
 
 ### Responsive 
 <img src="/demo/responsive.PNG" alt="warehouse screen" style="width: 250px;" />
